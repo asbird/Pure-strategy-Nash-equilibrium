@@ -1,0 +1,7 @@
+C:\git\testGit\GameTheory\GameTheory\GameTheory\bin\Debug\GameTheory.exe.config
+C:\git\testGit\GameTheory\GameTheory\GameTheory\bin\Debug\GameTheory.exe
+C:\git\testGit\GameTheory\GameTheory\GameTheory\bin\Debug\GameTheory.pdb
+C:\git\testGit\GameTheory\GameTheory\GameTheory\obj\Debug\GameTheory.csprojAssemblyReference.cache
+C:\git\testGit\GameTheory\GameTheory\GameTheory\obj\Debug\GameTheory.csproj.CoreCompileInputs.cache
+C:\git\testGit\GameTheory\GameTheory\GameTheory\obj\Debug\GameTheory.exe
+C:\git\testGit\GameTheory\GameTheory\GameTheory\obj\Debug\GameTheory.pdb
